@@ -1,2 +1,2 @@
-# Ajit
-first 
+# Ajit 
+My first GitHub Project
